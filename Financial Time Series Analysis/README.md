@@ -1,7 +1,5 @@
 # Financial Time Series Analysis using Deep Learning
 
-## Overview
-
 This repository contains implementations and experiments on forecasting financial time series data using various deep learning methods including LSTM, GRU, Transformer, and Hybrid models. The goal is accurate prediction of stock prices and financial trends by leveraging advanced neural network architectures.
 
 Financial markets are inherently nonlinear and dynamic. Traditional linear and statistical models often fall short in capturing market complexities and adapting to shifting regimes. Deep learning methods provide capabilities for learning complex temporal dependencies and multiple features beyond historical prices.
