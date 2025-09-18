@@ -7,14 +7,12 @@ This repository contains the implementation of Sliding Mode Control (SMC) for a 
 ## Contents
 
 - `smc_rotary_pendulam_setup.m`: MATLAB script that sets up parameters and runs simulations of the rotary pendulum under the designed Sliding Mode Controller.
-- `RotaryPendulum.slx`: Simulink model of the rotary inverted pendulum system with sliding mode control (not uploaded).
+- `RotaryPendulum.slx`: Simulink model of the rotary inverted pendulum system with sliding mode control.
 - `Report.pdf`: Detailed report describing the system modeling, control design methodology, implementation details, and simulation results.
 
 ## Description
 
-The code implements a robust sliding mode controller to stabilize the inherently unstable rotary inverted pendulum. It uses nonlinear system dynamics, accounts for model uncertainties, and applies SMC to ensure convergence despite disturbances.
-
-The Simulink model captures the system dynamics and controller in a block-diagram form for simulation and visualization.
+The code implements a robust sliding mode controller to stabilize the inherently unstable rotary inverted pendulum. 
 
 ## Usage
 
