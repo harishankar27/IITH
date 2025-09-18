@@ -1,7 +1,5 @@
 # SMC Rotary Pendulum Control
 
-## Overview
-
 This repository contains the implementation of Sliding Mode Control (SMC) for a rotary inverted pendulum system. The project includes modeling, controller design, and simulation of the rotary pendulum dynamics using MATLAB and Simulink.
 
 ## Contents
