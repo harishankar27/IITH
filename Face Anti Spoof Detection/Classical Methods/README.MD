@@ -1,6 +1,10 @@
-The Classical Methods implemented were done using:
-1) LBP_data_generation.ipynb: Uses Multiscale Local Binary Patterns(LBP)
-2) IQM_color.ipynb: Image Quality Assessment using Image Quality Measures(IQMs)
+# Classical Methods
+
+This folder contains classical face anti-spoofing approaches based on image texture and quality assessment:
+- `LBPdatageneration.ipynb, LBP.ipynb`,: Extracts multiscale Local Binary Pattern features, creating histograms of micro-textures to differentiate real and spoofed faces.
+- `IQMcolor.ipynb`: Computes a suite of Image Quality Measures (IQMs), assembling statistical features from input images to train classifier models for spoof detection.
+
+These methods are benchmarked using Linear Discriminant Analysis classifiers and compared across different datasets. Theoretical references include seminal works on LBP and IQA for biometric security. Classical methods excel on familiar data but experience significant accuracy drops in cross-dataset scenarios.
 
 References:
 1) LBP: J. Määttä, A. Hadid and M. Pietikäinen, "Face spoofing detection from single images using micro-texture analysis," 2011 International Joint Conference on Biometrics (IJCB), Washington, DC, USA, 2011, pp. 1-7, doi: 10.1109/IJCB.2011.6117510.
