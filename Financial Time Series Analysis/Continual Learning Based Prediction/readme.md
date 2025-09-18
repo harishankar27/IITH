@@ -1,7 +1,5 @@
 # Continual Learning for Financial Time Series Forecasting
 
-## Introduction
-
 Continual learning addresses the challenge of adapting deep learning models to evolving financial market data without catastrophic forgetting of prior knowledge. This is critical in financial time series forecasting where data distribution and market regimes shift continuously.
 
 ## Methods Implemented
