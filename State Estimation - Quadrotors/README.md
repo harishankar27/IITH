@@ -1,6 +1,6 @@
 # State Estimation - Quadrotors
 
-This project implements state estimation techniques for quadrotors based on a detailed nonlinear dynamics model.
+This project implements state estimation techniques for estimating altitude and attitude states of quadrotor from the inertial measurements of the system.
 
 ## Quadrotor Dynamics Modeling
 
