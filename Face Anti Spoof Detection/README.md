@@ -1,8 +1,9 @@
-# FaceAntiSpoofing
-This is the code that was used for our comparative study on face anti spoofing techniques
+# Face Anti-Spoof Detection
 
-# Contribution by Team Members
-1) Kartik Agrawal - IQMs, Visualisation Plots and Results for Classical Methods
-2) Harishankar M - LBP, IQM, Handling datasets
-3) Riya Ann Easow - Preprocessing Techniques, Backbone Classifier, ROC Curves, t-SNE Plots, Haar Face Cascade on the Dataset, Testing of SSDG and Backbone Model
-4) Kaustubh Gupta - Dataset Grayscale Preprocessing, Dataset Label Generation, SSDG Model, Testing of SSDG and Backbone Model
+This repository provides a comprehensive study of face spoofing detection algorithms using both classical image processing and deep learning approaches. It compares conventional texture and quality-based methods with state-of-the-art deep learning architectures focused on domain generalization. The codebase supports experiments across diverse datasets including NUAA, LCC-FASD, CASIA, and Replay-Attack. Key functionalities include robust preprocessing, dataset management, experiment orchestration, and visualization for qualitative and quantitative analysis.
+
+Folders:
+- `Classical_Methods/`: Implements LBP and IQA methods for feature extraction and classification.
+- `Domain_Generalisation/`: Deep learning models with advanced domain adaptation and generalization strategies (SSDG and baselines).
+
+Results reveal classical methods perform well on seen data but struggle to generalize, while domain generalization techniques offer superior cross-dataset robustness.
