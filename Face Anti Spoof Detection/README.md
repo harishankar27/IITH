@@ -6,5 +6,5 @@ Folders:
 - `Classical_Methods/`: Implements LBP and IQA methods for feature extraction and classification.
 - `Domain_Generalisation/`: Deep learning models with advanced domain adaptation and generalization strategies (SSDG and baselines).
 
-**Report**: The report.pdf contains a detailed comparative study of classical and deep learning face anti-spoofing detection methods, experimental methodology, results, and analysis using multiple datasets.
+**Report.pdf**: The file contains a detailed comparative study of classical and deep learning face anti-spoofing detection methods, experimental methodology, results, and analysis using multiple datasets.
 
