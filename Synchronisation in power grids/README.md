@@ -1,6 +1,5 @@
 # Synchronisation in Power Grids
 
-## Overview
 
 This project analyzes power grid synchronization using a generalized Kuramoto model, which models generators and loads as coupled nonlinear oscillators. Maintaining synchronization in power grids is critical to prevent failures and blackouts. The Kuramoto model provides a theoretical framework to study phase dynamics and grid stability.
 
