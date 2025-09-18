@@ -1,4 +1,4 @@
-# Financial Time Series Analysis using Deep Learning
+# Deep Learning and Continual Learning Approaches for Financial Time Series Analysis
 
 This repository contains implementations and experiments on forecasting financial time series data using various deep learning methods including LSTM, GRU, Transformer, and Hybrid models. The goal is accurate prediction of stock prices and financial trends by leveraging advanced neural network architectures.
 
