@@ -6,7 +6,7 @@ This project analyzes power grid synchronization using a generalized Kuramoto mo
 - Simulates a simplified 3-node grid with two generators and one machine.
 - Studies effects of perturbations in power demand on synchronization and power delivery.
 
-network_dynamics.ipynb: The notebook includes code for simulating oscillator phases, computing order parameters, and visualizing transient and steady-state network behavior.
+-`network_dynamics.ipynb`: The notebook includes code for simulating oscillator phases, computing order parameters, and visualizing transient and steady-state network behavior.
 
 ## Results and Observations
 
