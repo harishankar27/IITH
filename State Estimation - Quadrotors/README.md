@@ -1,6 +1,11 @@
 # State Estimation - Quadrotors
 
-This project implements state estimation techniques for estimating altitude and attitude states of quadrotor from the inertial measurements of the system.
+The project investigates state estimation techniques for a nonlinear quadrotor model, serving as a benchmark system for evaluating control and estimation algorithms. The project involved:  
+- Deriving nonlinear and linearised state-space models of quadrotor dynamics  
+- Implemented and compared three estimators  
+  -- Kalman Filter  
+  -- Moving Horizon Estimator  
+  -- Unscented Kalman Filter  
 
 ## Quadrotor Dynamics Modeling
 
@@ -12,3 +17,4 @@ The quadrotor dynamics are modeled using Newton-Euler equations describing trans
 - The script simulates estimators with noisy sensor data and visualizes estimation accuracy and errors.
 
 Run the MATLAB script to reproduce simulations and compare estimator performance.
+
