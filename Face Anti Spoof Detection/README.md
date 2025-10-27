@@ -1,5 +1,6 @@
 # Face Anti-Spoof Detection
 
+![My Image](real_vs_spoof1.jpg)
 This repository provides a comprehensive study of face spoofing detection algorithms using both classical image processing and deep learning approaches. It compares conventional texture and quality-based methods with state-of-the-art deep learning architectures focused on domain generalization. The codebase supports experiments across diverse datasets including NUAA, LCC-FASD, CASIA, and Replay-Attack. Key functionalities include robust preprocessing, dataset management, experiment orchestration, and visualization for qualitative and quantitative analysis.
 
 Folders:
